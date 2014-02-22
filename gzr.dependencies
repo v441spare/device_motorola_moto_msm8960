@@ -15,13 +15,13 @@
     "branch": "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/android_hardware_qcom_audio-caf",
+    "repository": "SlimRoms/hardware_qcom_audio-caf",
     "target_path": "hardware/qcom/audio-caf",
-    "branch": "cm-11.0"
+    "branch": "kk4.4"
   },
   {
-    "repository": "CyanogenMod/android_hardware_qcom_display-caf",
+    "repository": "SlimRoms/hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
-    "branch": "cm-11.0"
+    "branch": "kk4.4"
   }
 ]
