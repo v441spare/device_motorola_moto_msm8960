@@ -15,12 +15,12 @@
     "branch": "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/hardware_qcom_audio-caf",
+    "repository": "CyanogenMod/android_hardware_qcom_audio-caf",
     "target_path": "hardware/qcom/audio-caf",
     "branch": "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/hardware_qcom_display-caf",
+    "repository": "CyanogenMod/android_hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
     "branch": "cm-11.0"
   }
